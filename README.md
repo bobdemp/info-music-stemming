@@ -42,3 +42,9 @@ Gaudio Studio
 https://www.musicradar.com/news/5-best-stem-separation-software
 
 https://studio.gaudiolab.io/
+
+********
+
+https://fadr.com/
+
+// ok-ish
