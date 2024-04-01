@@ -25,5 +25,7 @@ conda update -n base conda
 
 conda install -c anaconda sniffio
 
+winget install ffmpeg
+
 spleeter separate -p spleeter:2stems -o output audio_example.mp3
 
